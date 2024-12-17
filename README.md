@@ -1,0 +1,1 @@
+# azurecognitive_w_functions_storage_account
