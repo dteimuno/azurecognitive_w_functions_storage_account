@@ -2,6 +2,9 @@
 
 This project contains an Azure Function that processes files uploaded to an Azure Blob Storage container. It analyzes text or image files using Azure AI Services and stores the analysis results back in another Blob Storage container.
 
+For my Medium write-up about this project please see:
+[Utilizing Azure Functions, Blob Storage, and Cognitive Services](https://medium.com/@dteimuno/utilizing-azure-functions-blob-storage-container-and-cognitive-services-computer-vision-text-ea2d24a194ff)
+
 ---
 
 ## Features
